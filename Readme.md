@@ -3,4 +3,4 @@
 - A shared point to access all your CoreData contexts
 
 ## See also...
-* [CoreDataUniquer](https://github.com/orlandoaleman/CoreDataUniquer)
+* [CoreDataUniquer](https://github.com/orlandoaleman/TTCoreDataUniquer)
