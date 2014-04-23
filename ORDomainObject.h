@@ -1,10 +1,10 @@
 //
-//  ORDomainObject
+//  TTDomainObject
 //  Temporary CoreData
 //
 
-#ifndef ORDOMAINOBJECT_UTILS
-#define ORDOMAINOBJECT_UTILS
+#ifndef TTDOMAINOBJECT_UTILS
+#define TTDOMAINOBJECT_UTILS
 
 #define CLASS_STRING(x) NSStringFromClass ([x class])
 
@@ -15,7 +15,7 @@
 
 #import <CoreData/CoreData.h>
 
-@interface ORDomainObject : NSManagedObject { }
+@interface TTDomainObject : NSManagedObject { }
 
 /// Retorna el nombre del objeto
 + (NSString *)entityName;
